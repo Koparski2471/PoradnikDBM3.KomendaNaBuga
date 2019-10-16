@@ -1,0 +1,25 @@
+» *PL:*
+• Skrypt zrobiony przez: Taki Tam Slu#5916.
+• Wersja: v0.5
+• Możesz korzystać z tej komendy, skryptu jeśli zostawisz ten wpis. 
+**Co Nowego?**
+- Poprawki w kodzie
+- Poprawki językowe
+- Dodało tło
+- Stworzono plik kaskadowy. Miejsza ilość pliku.
+- Optymalizacja skryptu.
+- Dodano region serwera.
+- Zmiana koloru linków.
+
+» *ENG:*
+• Script made by: Taki Tam Slu#5916.
+• Version: v0.5
+• You can use this command, script if you leave this entry.
+**What's new?**
+- Corrections in the code
+- Language corrections
+- Added background
+- Cascading file created. Smaller file quantity.
+- Script optimization.
+- Server region added.
+- Change of links color.
