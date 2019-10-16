@@ -6,11 +6,10 @@ Autor: Taki Tam Slu#5916
 Serwer Autora: https://discord.gg/26fu8Wf
 Bot twórcy tego dzieła: https://discordbots.org/bot/546058545917984769
 
-<INFO!>
 Jeśli ktoś użyje tę polecenie raport nie zostanie wysłany do ciebie na prywatne wiadomości, tylko zostanie stworzony plik w głównym projekcie twojego bota.
 Otwórz ten plik za pomocą dowolnej przeglądaki. Zalecane = Google Chrome lub Edge.
 
-<Instalacja:>
+## Instalacja:
 1. Wejdź w lokalizację /Komenda/
 2. Otwórz plik bug.json w notatniku.
 3. Skopiuj całą zawartość.
