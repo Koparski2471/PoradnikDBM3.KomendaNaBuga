@@ -18,7 +18,7 @@ Otwórz ten plik za pomocą dowolnej przeglądaki. Zalecane = Google Chrome lub 
 7. Wklej usuń tam co jest, następnie wklej wcześniej skopiowany skrypt.
 8. Testuj (:
 
-## Masz możę vpsa?
+## Masz może vpsa?
 Musisz to wtedy zainstalować inaczej niż zwykle. (Nie chodzi mi tutaj o wkładanie raw daty do projektu w DBM).
 [Zmiana strefy czasowej na serwerze VPS, byś mógł zobaczyć kiedy nowy raport został stworzony na serwerze.
 
