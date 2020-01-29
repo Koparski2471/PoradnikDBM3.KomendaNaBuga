@@ -18,15 +18,15 @@ Otwórz ten plik za pomocą dowolnej przeglądaki. Zalecane = Google Chrome lub 
 7. Wklej usuń tam co jest, następnie wklej wcześniej skopiowany skrypt.
 8. Testuj (:
 
-## Masz może vpsa?
-Musisz to wtedy zainstalować inaczej niż zwykle. (Nie chodzi mi tutaj o wkładanie raw daty do projektu w DBM).
-[Zmiana strefy czasowej na serwerze VPS, byś mógł zobaczyć kiedy nowy raport został stworzony na serwerze.
+## Masz może VPS'a?
+Zrobimy coś dodatkowego. Okej? Wiem, że to nie jest wymagane, ale warto to moim zdaniem zrobić.
+Zmiana strefy czasowej na serwerze VPS, byś mógł zobaczyć, kiedy nowy raport został stworzony na serwerze.
 
 1. Przejdź do twojego terminala, np. (PuTTy).
-2. Wpisz polecenie sudo dpkg-reconfigure tzdata
-3. Wybierz Europe
-4. Wybierz Warsaw
-5. Wpisz komende date
-6. Sprawdź czy data i godzina się zgadza.
+2. Wpisz polecenie: sudo dpkg-reconfigure tzdata
+3. Wybierz: Europe
+4. Wybierz: Warsaw
+5. Wpisz komendę: date
+6. Sprawdź, czy data i godzina się zgadza.
 
-Gratulację! Od teraz będziesz wiedzieć o której godzinie został wygenerowany nowy raport!
+Gratulację! Od tej pory na PEWNO będziesz wiedzieć, o której godzinie został wygenerowany nowy raport!
