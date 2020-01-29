@@ -19,7 +19,7 @@ Otwórz ten plik za pomocą dowolnej przeglądaki. Zalecane = Google Chrome lub 
 
 ## Masz może VPS'a?
 Zrobimy coś dodatkowego. Okej? Wiem, że to nie jest wymagane, ale warto to moim zdaniem zrobić.
-Zmiana strefy czasowej na serwerze VPS, byś mógł zobaczyć, kiedy nowy raport został stworzony na serwerze.
+Zmiana strefy czasowej na serwerze VPS, byś mógł zobaczyć, kiedy nowy raport został stworzony na serwerze.<br>
 <b>1.</b> Przejdź do twojego terminala, np. <code>(PuTTy)</code>.<br>
 <b>2.</b> Wpisz polecenie: <code>sudo dpkg-reconfigure tzdata</code><br>
 <b>3.</b> Wybierz: <code>Europe</code><br>
